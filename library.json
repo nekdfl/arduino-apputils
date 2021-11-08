@@ -1,0 +1,21 @@
+{
+  "name":"apputils",
+  "keywords":"splitpath, crc",
+  "description":"some utils functions to small and special to make own library from it",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nekdfl/arduino-apputils.git"
+  },
+  "version": "0.1.0",
+  "authors":
+  {
+    "name": "Garkushenko Nick",
+    "url": "https://github.com/nekdfl"
+  },
+  "license": "LGPL-3.0",
+  "frameworks": "arduino",
+  "platforms": "espressif8266"
+  
+
+}
