@@ -1,7 +1,7 @@
 {
   "name":"apputils",
   "keywords":"splitpath, crc",
-  "description":"some utils functions to small and special to make own library from it",
+  "description":"this utils functions to small and special to make own library from it",
   "repository":
   {
     "type": "git",
